@@ -1,8 +1,8 @@
-# Time-Dependent Geomagnetic Inversion: Traditional vs. PINN Approach
+# Time-Dependent Geomagnetic Inversion: Physics-based vs. PINN Approach
 
 This repository contains two complementary approaches to time-dependent geomagnetic field inversion using a truncated spherical harmonic expansion:
 
-1. **Traditional Physics-Based Inversion** using Tikhonov regularization and B-spline time basis.
+1. **Physics-Based Inversion** using Tikhonov regularization and B-spline time basis.
 2. **Physics-Informed Neural Network (PINN)** that learns the temporal variation of spherical harmonic coefficients by minimizing a physics-based loss.
 
 ---
@@ -13,7 +13,7 @@ The goal is to recover time-varying spherical harmonic coefficients $( g_{l,m}(t
 
 
 
-## 2. Traditional Approach
+## 2. Traditional Physics-based Approach
 
 **File**: `geomagnetic-inversion-tikhonov.ipynb`
 
