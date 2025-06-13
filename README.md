@@ -34,7 +34,7 @@ The goal is to recover time-varying spherical harmonic coefficients $( g_{l,m}(t
 6. Plot recovered vs. true coefficients over time.
 
 ### Output:
-Plots comparing the true time-dependent coefficients with the recovered ones for each \( g_{l,m}(t) \) and \( h_{l,m}(t) \).
+Plots comparing the true time-dependent coefficients with the recovered ones for each $( g_{l,m}(t) )$ and $( h_{l,m}(t) )$.
 
 ---
 
