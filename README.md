@@ -40,7 +40,7 @@ Plots comparing the true time-dependent coefficients with the recovered ones for
 
 ## 3. Physics-Informed Neural Network (PINN)
 
-**File**: 'geomagnetic-inversion-pinn.ipynb'
+**File**: 'geomagnetic-inversion-pinn-fourierfeatures.ipynb'
 
 ### Method Summary:
 - Uses a neural network to predict all spherical harmonic coefficients at any given time \( t \).
